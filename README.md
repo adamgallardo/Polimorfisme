@@ -1,4 +1,5 @@
 # Polimorfisme
 
-## Integrants del grup:
-Àdam Gallardo i Bernat Jara
+**Integrants del grup:
+* Àdam Gallardo
+* Bernat Jara
